@@ -1,0 +1,11 @@
+{
+  "name": "rooms",
+  "url" : "https://github.com/dc-studios/haxelib_rooms/",
+  "license": "MIT",
+  "tags": ["dcstudios","dark-crystal studio","cedrik","cedsharp","gamemaker","rooms"],
+  "description": "Rooms tries to bring GameMaker-like rooms to openfl.",
+  "version": "1.0.0",
+  "releasenote": "Initial release, basic stuff working.",
+  "contributors": ["Cedrik"],
+  "dependenties": {}
+}
