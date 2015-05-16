@@ -34,10 +34,10 @@ class Main extends Sprite {
 > It then tells the room manager to display the Splash room.
 
 Next, create your rooms classes, extending the Room class.
-Create will be called when room is added in the display tree.
-Update is called when you call RoomManager.Update.
-Render is called when you call RoomManager.Render();
-Destroy is called when you change room or when the game closes.
+- Create will be called when room is added in the display tree.
+- Update is called when you call RoomManager.Update.
+- Render is called when you call RoomManager.Render();
+- Destroy is called when you change room or when the game closes.
 
 ```haxe
 package rooms;
